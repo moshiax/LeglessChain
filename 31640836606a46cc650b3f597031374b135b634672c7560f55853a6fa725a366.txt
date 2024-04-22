@@ -12,3 +12,7 @@
 143.204.5.29:80 - Title not found
 121.163.42.112:80 - WEB SERVICE
 20.102.92.234:80 - Page Redirection
+
+83.64.71.33:80 - 403 Forbidden
+92.60.36.165:80 - 400 Bad Request
+184.26.148.30:80 - Title not found
